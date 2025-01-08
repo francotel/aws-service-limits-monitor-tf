@@ -1,0 +1,14 @@
+tf-version = "1.9.3"
+env        = "demo"
+aws-region = "us-east-1"
+project    = "service-limits"
+owner      = "franco.navarro"
+cost       = "0001-service-limits"
+
+####   VARIABLES DEMO   ####
+slack-webhook-url   = "https://hooks.slack.com/workflows/ABCDEFGHI/A01234567/12345678/poiuytrewqety"
+schedule-expression = "rate(12 hours)"
+
+email-alert = [
+  "fnavarrope@info.com",
+]
