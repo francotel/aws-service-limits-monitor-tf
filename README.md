@@ -139,4 +139,4 @@ If you find this repository useful and want to see more content like this, follo
 
 If you’d like to support my work, you can buy me a coffee. Thank you for your support!
 
-[![BuyMeACoffee](https://icon-icons.com/icons2/2699/PNG/512/buymeacoffee_logo_icon_169441.png)](https://www.buymeacoffee.com/francotel)
+[![BuyMeACoffee](https://github.com/francotel/wordpress-ha-terraform-aws/blob/main/images/buymeacoffee.png)](https://www.buymeacoffee.com/francotel)
